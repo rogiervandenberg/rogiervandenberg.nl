@@ -18,6 +18,14 @@ twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 # Permalinks
 permalink:      /:title/
 
