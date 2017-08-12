@@ -14,9 +14,10 @@ description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, so
 baseurl: ''
 url: ''
 paginate:       5
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: rogiervdberg
+github_username: rogiervandenberg
 markdown: kramdown
+theme: minima
 
 defaults:
   -
@@ -29,17 +30,22 @@ defaults:
 # Permalinks
 permalink:      /:title/
 
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        :compressed
+header_pages:
+- about.md
+- contact.markdown
+
+# # Assets
+# sass:
+#   sass_dir:     _sass
+#   style:        :compressed
 
 
-# About
-author:
-  name:         Rogier van den Berg
-  url:          http://www.rogiervandenberg.nl
+# # About
+# author:
+#   name:         Rogier van den Berg
+#   url:          http://www.rogiervandenberg.nl
 
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-feed
