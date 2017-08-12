@@ -1,0 +1,37 @@
+---
+title: Rogier van den Berg
+timezone: CET
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: mail@rogier.nu
+description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer, marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek.
+'
+baseurl: ''
+url: ''
+paginate:       5
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+
+# Permalinks
+permalink:      /:title/
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+
+# About
+author:
+  name:         Rogier van den Berg
+  url:          http://www.rogiervandenberg.nl
+
+# Gems
+gems:
+  - jekyll-paginate
