@@ -1,0 +1,67 @@
+---
+title: 'Ulysses: Het geheim van een goede schrijftool'
+date: 2015-05-13 20:28:20 Z
+tags:
+- app-tag
+layout: post
+---
+
+![Ulysses logo](/content/images/2015/05/ulysses-header.png)
+Ik schrijf best wel veel. Denk aan blog-artikelen, productbeschrijvingen, offertes, lange e-mails, etc. Ik ben ooit op zoek gegaan naar een dedicated schrijftool. Ik gebruik nu dagelijks [Ulysses](http://www.ulyssesapp.com/) (Mac), ben er ontzettend fan van en leg graag uit waarom.
+
+## Features
+Ulysses is gemaakt om te schrijven en dit zo gemakkelijk en effectief mogelijk te maken. Het heeft een aantal eigenschappen die het zo’n super schrijfapplicatie maken.
+
+### ‘Distraction free writing’
+Ten eerste zorgt het ervoor dat je je gemakkelijk kunt afzonderen met je tekst. Fullscreen. Ook nu ik dit schrijf zie ik alleen maar een cursor en letters. Geen knoppenbalken, geen menu, geen toeters en bellen.
+
+Alleen jij met je tekst, dat is het idee. Zo kun je, zonder afleiding, prettig aan je tekst werken.
+![Screenshot schrijven](/content/images/2015/05/Blog-schrijven-in-Ulysses.png)
+*Dit is wat ik zag toen ik deze blog schreef*
+
+### Library
+Maar dat is niet het enige. Je hoeft niet meer met losse bestanden te werken, na te denken over hoe je ze wil noemen of waar je dingen opslaat. Alles wordt in de app opgeslagen en is te syncen via iCloud. Daarbij kun je meerdere projecten, groepen en filters definiëren en kun je tags gebruiken. Dat syncen is handig als je je schrijfsels wilt backuppen en/of deze bv. ook op een andere computer of je iPad (er is een iPad versie) wilt kunnen benaderen.
+
+![library](/content/images/2015/05/Library-1.png)
+
+Je kunt er ook voor kiezen een (bv. [Dropbox](https://www.dropbox.com/)-)folder als plek aan te geven voor je schrijfsels. Op de achtergrond maakt Ulysses dan losse Markdown bestandjes, maar in je app zie je alles netjes bij elkaar. Mocht je Android gebruiker zijn, dan kun je er met je telefoon ook gemakkelijk bij.
+
+### Mooie exports
+Vaak heb je je tekst ergens voor nodig als je ermee klaar bent. Het moet op een website, in een e-mail, offerte of waar dan ook komen.
+
+Je kunt wat je geschreven hebt kopieëren als HTML, Markdown, RTF, etc. Zo kun je schrijven in één formaat en het afhankelijk van je doel ergens naartoe copy+pasten.
+
+Ook kun je een schrijfsel gemakkelijk exporteren naar een mooi eindproduct. Denk aan een PDF of ePub bestand. Hierbij kun je diverse templates gebruiken.
+
+![exports](/content/images/2015/05/Export.png)
+
+### Stats
+Je kunt bij een ‘sheet’ (je werkt in sheets) aangeven wat je criteria zijn om hem goed te laten zijn.
+
+Je kunt schrijfdoelen opgeven, zodat je je aan je gestelde aantal woorden, zinnen, alinea’s, etc. houdt. In één oogopslag zie je of je stukje rood of groen is.
+
+Hoeveel woorden, zinnen, alinea’s of pagina’s is je tekst? Hoe lang gaat een langzame, gemiddelde of snelle lezer er over doen om jouw tekst te lezen? Met handige toetsencombinaties is dit te bekijken.
+
+### Keyboard shortcuts
+Sterker, de hele applicatie is te bedienen met je toetsenbord. Navigatie naar andere sheets, indeling van je scherm, exports, statistiek, cheat-sheet voor markdown-codes en previews.
+
+Handig, zeker omdat je toch al met je toetsenbord bezig bent. Op die manier hoef je dus niets meer met de muis te doen wat je productiviteit ten goede komt.
+
+### Markdown
+Je schrijft in principe in Markdown (of Markdown XL, een uitgebreidere versie waarmee ook voetnoten te maken zijn). Soms kan het in Markdown echter wat lastig zijn een link, tekstopmaak of plaatje in te voegen.
+
+Deze kun je met Ulysses een gemakkelijke toetsencombinatie plaatsen. Zo hoef je bv. niet per sé 2x een \* te typen om iets bold te maken. Je kunt gewoon de bekende shortcuts als ⌘-B gebruiken.
+
+Een link voeg je in met ⌘-K en een plaatje met (img). Er zijn allerlei soorten markup gemakkelijk in te voegen. Bij het exporteren naar Markdown (of opslaan) fixt Ulysses het automatisch naar ‘net Markdown’.
+
+![Platform](/content/images/2015/05/Platform.png)
+
+## Probeer het uit
+Zoals je merkt vind ik het prettig met Ulysses te werken. Het is naast Chrome de enige applicatie op mijn laptop die ik altijd open heb.
+
+In eerste instantie vond ik deze opties de (behoorlijke) investering niet waard. Wel wilde ik het een kans geven, omdat ik er zoveel enthousiaste reviews over las.
+
+Gelukkig heeft Ulysses een demo van 10 uur. Dat betekent dat je de app 10 uur kunt gebruiken, daarna kun je er niets meer mee opslaan.
+
+Ben je nieuwsgierig? Kijk hier dan verder:
+[http://www.ulyssesapp.com/](http://www.ulyssesapp.com/)

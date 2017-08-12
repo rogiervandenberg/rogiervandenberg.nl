@@ -1,0 +1,75 @@
+---
+title: E-writer
+date: 2015-05-23 11:54:00 Z
+tags:
+- idee
+layout: post
+---
+
+Zit je lekker in de zon, met een [zelfgemaakte frappuccino](https://instagram.com/p/OeDdNsQjmh/), witbiertje of wat anders lekkers en je hebt inspiratie…
+
+## E-reader
+Mijn [e-reader](https://nl.kobo.com/koboglo) (of e-book reader) heeft een [e-ink scherm](http://en.wikipedia.org/wiki/E_Ink). Dat zorgt ervoor dat ik in de felle zon lekker kan lezen. Ik lees meestal 2 boeken tegelijk. Eén ‘om slimmer te worden’ (management, zelfontwikkeling) en een voor fun (fictie, thrillers enzo). Het ding gaat bijna altijd met me mee, overal naartoe.
+
+## E-writer?
+Maar zoiets heb ik niet om wat te schrijven. Mijn laptop voldoet niet. Het LCD-scherm houdt niet zo van de zon. Ik zou wel een device willen hebben waarop ik in de volle zon, gemakkelijk kan schrijven. Deze moet dan een aantal eigenschappen hebben.
+
+### Single purpose device
+Wat is de overeenkomst tussen een rekenmachine, een fotocamera en een platenspeler? Ze doen alledrie maar één ding. Dat is anders dan een laptop of smartphone. Je gebruikt hem waarvoor hij is, en niet anders.
+
+Dat zorgt voor een enorme focus. En, ze zijn heel goed in dat éne ding waarvoor het gemaakt is. Als je met zo’n ding bezig bent, kun je niet anders doen dan wat je wil doen. Je dwaalt niet af naar Facebook, er komen geen e-mailtjes op binnen.
+
+Als er een e-writer zou bestaan, dan zou ik willen dat hij primair ontwikkeld is om mee te schrijven. Dat betekent dus dat er een goed toetsenbord op moet zitten en dat hij snel te benaderen en te gebruiken is, op een gemakkelijke manier.
+
+### Scherm dat altijd leesbaar is
+Ik zei het net al even, maar een (bijvoobeeld) e-ink display zou mooi zijn. Dan kun je ook in de felle zon goed zien wat je schrijft. En, het kost weinig stroom. Zorgt er dus voor dat de batterijen lang mee gaan. Maar, e-ink schermen hebben de reputatie vrij ‘traag’ te zijn. Het duurt even voordat nieuwe tekst op het scherm gezet is. Ik weet niet of een e-ink scherm inmiddels al snel genoeg te maken is, dat hij snel genoeg ververst op het moment van typen.
+
+Voor lezen is even wachten op tekst (net als het omslaan van een pagina) niet erg. Maar bij schrijven moet het verversen bijna realtime. Je wilt niet moeten wachten op het in beeld komen van de tekst die je schrijft.
+
+### Opslag
+Wat ik schrijf, moet kunnen worden opgeslagen op het apparaat. Maar ook gemakkelijk er vanaf te halen zijn. Misschien via een USB-aansluiting, maar liever nog door mijn schrijfsels te syncen naar bijvoorbeeld mijn Dropbox account.
+
+Heb ik dan inspiratie? Ik pak mijn e-writer, schrijf mijn stukje en kan later doorgaan op de computer, omdat het bestandje daar al op staat.
+
+## Bestaat dit al?
+Je zou toch denken van wel, ik heb even een rondje gezocht.
+
+### Boogie Board
+Er zijn al *e-writers*, bijvoorbeeld [Boogie Board](http://www.myboogieboard.com/eu/) maakt ‘digitaal papier’. Echter, deze hebben geen keyboard en vereisen dat je alles schrijft. Da’s niet handig, omdat je dan alsnog je idee moet overtypen.
+
+Daarnaast hebben ze maar één model dat ook dingen bewaart, de anderen zijn gewoon digitaal papier dat je kunt wissen. En die vergeten dus ook alles weer. Een leuk idee, maar zonder uitvoer of koppeling naar een ander systeem en zonder keyboard niet geschikt voor mijn doel.
+
+![Boogie Board](/content/images/2015/05/boogieboard.jpg)
+
+### Sony Digital Paper
+Sony heeft ooit een super-geavanceerde e-reader op de markt gebracht die ze “Digital paper” noemde, met speciaal (“Mobius”-) e-ink scherm, schrijf-mogelijkheid en van een groot formaat.
+
+![Sony Mobius](/content/images/2015/05/sony_mobius-1.jpg)
+
+Helaas was dit ding duur, moeilijk verkrijgbaar en wederom, geen toetsenbord.
+
+### Hemmingwriter
+[Engadget schreef ooit over de Hemingwrite](http://www.engadget.com/2014/11/08/60-seconds-with-hemingwrite-an-e-ink-typewriter/). Een typemachine met e-ink scherm. Briljant idee! Het ding leek me alleen vrij lomp, gebruiksvriendelijkheid laat te wensen over en ging in die review om een prototype.
+
+![Hemmingwriter](/content/images/2015/05/hemingwrite.jpg)
+
+Als een dergelijk apparaat zou worden gelanceerd, zou het een wat eleganter uiterlijk (groter scherm, mooier, compacter) moeten hebben, iets slimmere manier van documentenbeheer en goed moeten werken.
+
+Zojuist zag ik dat hij inmiddels via kickstarter (funded!) ontwikkeld is. Je kunt je nu ook als *niet-backer* opgeven als geïnteresseerde. Maar hij is nog niet vrij verkrijgbaar helaas.
+
+## Bottom line
+Het lijkt erop dat er vandaag nog geen echte e-writer is die de volgende eigenschappen verenigt:
+
+- Goed te gebruiken in de volle zon, dus een geschikt scherm;
+- Prettig keyboard om snel te typen;
+- Lange batterijduur;
+- Elegant en compact ding, zodat je ‘m graag meeneemt;
+- Mogelijkheid tot gemakkelijk ontsluiten van wat je geschreven hebt, via een USB aansluiting, of liever nog via de cloud (Dropbox, Google Drive, iCloud, etc.).
+- Beetje stof-resistant, zodat hij ook echt op het strand te gebruiken is. \>:)
+
+## Er is hoop!
+De Hemingwrite is [waarschijnlijk binnenkort beschikbaar](https://app.hemingwrite.com/#presale). Dit is precies wat ik zocht.
+
+En, zojuist kwam ik een artikel tegen [met een verhaal over een nieuwe LCD-technologie](http://gizmodo.com/5443895/e-ink-is-dead-pixel-qis-amazing-transflective-lcd-just-killed-it). Dit type scherm is snel genoeg voor laptops, computers, etc. maar ook goed te gebruiken in de volle zon. Met een beetje mazzel gaat het in de toekomst de manier worden waarop schermen in onze gadgets werken. Als dat zo is, dan wordt schrijven in de volle zon dus op alle devices mogelijk!
+
+Dus, of met een Hemingwrite-achtig apparaat of met een laptop met zo'n nieuw type scherm en een goede [distraction free writing tool](www.rogiervandenberg.nl/ulysses/), wordt mijn e-writer toch nog werkelijkheid in de nabije toekomst…

@@ -1,0 +1,45 @@
+---
+title: Privacy
+date: 2015-05-30 12:09:53 Z
+tags:
+- idee
+layout: post
+---
+
+![Cameratoezicht](/content/images/2015/05/cameratoezicht.jpg)
+
+Ik zag vorige week een documentaire over de toenemende mate waarin overheid, bedrijven en andere instanties data vastleggen.  In Nederland lijken we dit heel gewoon te vinden en ligt (bijna) niemand er wakker van. En wat doet dit met onze privacy? Is het wel normaal dat vanwege “veiligheid” dingen opgeslagen blijven?
+
+## Innovatie
+Ik houd als techneut best wel van gemak en ben ook gek op alle nieuwe ontwikkelingen die we nu zien. Gaaf, automatisch lezen van nummerborden, met één bliep inchecken in de trein, gezichtsherkenning in een winkel.
+
+Tof dat we dit kunnen. Interessant om de achterliggende techniek te bestuderen. Dit soort ontwikkelingen, met daarbij het integreren van informatie, en alles gemakkelijk doorzoekbaar maken vind ik fascinerend.
+
+Informatietechnologie helpt mij privé ook in mijn dagelijks leven. Ik vind het handig dat ik altijd overal bij mijn (eigen) informatie kan.
+
+## Privacy?
+Maar, moeten we iets vinden van het (vaak stilzwijgende) vastleggen van alles? Zeker als het gaat om persoonlijke gegevens? Wat nou als er misbruik gemaakt gaat worden in de toekomst, van alles wat we nú, vandaag, vastleggen?
+
+### Niets te verbergen?
+Gemakkelijk gezegd: “Ik heb toch niets te verbergen”. Ik geloof hier alleen niet in. Je doet toch de gordijnen dicht, de WC-deur op slot en je trekt kleren aan.
+
+Iedereen heeft geheimen, of dingen die je niet wijd verspreidt. 
+
+Gedachten, ideeën die je nog niet deelt, onzekerheden. Misschien ben je verliefd op iemand, misschien denk je ziek te zijn en twijfel je of je naar de dokter moet gaan, misschien plan je een verrassing voor je partner. Alleen jij weet hoeveel geld er op je bankrekening staat, dat je de jurk van de gastvrouw spuuglelijk vindt of wat het wachtwoord van je e-mail is.
+
+Geheimen dragen bij aan jouw identiteit. Kinderen creëren als kleuter geheimen door een knuffel op een ‘geheime plaats’ verstoppen. Zo leren ze dat ze anders zijn dan een ander. Je weet iets wat een ander niet weet.  Het niet delen van alles wat je weet is een sociale vaardigheid.
+
+Het hebben van geheimen zorgt voor autonomie, versterkt relaties/vriendschappen (als je ze deelt), dient als zelfbescherming en kan een machtsmiddel zijn (waarmee je iemand kunt bewegen iets te doen).
+
+Als alles, of teveel, publiek bekend wordt, dan schaadt dit de persoon om wie het gaat. 
+
+## Niet alles willen opslaan
+Ik denk dat het goed is dat we niet alles moeten willen opslaan over iedereen. Dat je ten eerste moet nadenken over wat je zélf online zet, wáárom je dat doet en waar dan. Plemp bv. [niet alles zomaar op Facebook](/blijf-ik-op-facebook/) in de hoop veel ‘likes’ te scoren.
+
+Maar we moeten ook met z’n allen nadenken over wat OK is dat bedrijven en overheid over ons opslaan. Je weet immers maar nooit wanneer het door wie misbruikt gaat worden. En als dat gebeurt, dan is het te laat.
+
+In Duitsland hebben ze dat beter begrepen dan hier. Met de gedachte aan het nazi-verleden is er een sterke tegenbeweging die de overheid scherp houdt. In Nederland hebben we dat helaas (nog) niet.
+
+Misschien is het bekijken van deze documentaire en voor jezelf bedenken wat je ervan vindt wel een goede eerste stap:
+
+<iframe src="https://player.vimeo.com/video/52165457?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/52165457">Panopticon - de docu over jouw privacy</a> from <a href="https://vimeo.com/petervlemmix">Peter Vlemmix</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
