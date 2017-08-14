@@ -1,36 +1,68 @@
 ---
 layout: default
-title: Home
 ---
 
-<div class="home">
-  
-    <h1 class="page-heading">Posts</h1>
-    
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-        <li>
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-  
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
-  
-  
+
+{% for post in paginator.posts %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <div class="main-content" itemprop="articleBody">
+
+<a name="blog{{ forloop.index }}"></a>
+
+  <header class="post-header">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3 class="post-title" itemprop="name headline">{{ post.title }}</h3> </a>
+      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}
+
+  </header>
+
+    {{ post.excerpt }}
+    <div style="float: left;">
+      <p class="post-meta" ><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Lees verder</a></p>
+    </div>
+    <div style="float:right;">
+
+<p class="post-meta" style="text-align: right; color: rgb(152,152,152);"><label for="our-popup-{{ forloop.index }}"><i class="fa fa-share"></i> Share / Permalink</label></p></div>
+<div style="clear: both;">
+
+	<span>
+		<input type="checkbox" id="our-popup-{{ forloop.index }}" class="smoosh" />
+
+		<!-- invisible; when checked, the popup opens -->
+		<label for="our-popup-{{ forloop.index }}" class="overlay"></label>
+
+		<!-- the popup starts here -->
+		<div class="overlay-dialogue">
+			<h3>Share "{{ post.title  }}"</h3>
+
+            <!-- Target -->
+<input id="foo{{ forloop.index }}" value="{{ site.url }}{{ post.url }}" type="url">
+
+<!-- Trigger -->
+<button class="share-btn" data-clipboard-target="#foo{{ forloop.index }}">COPY LINK
+</button>
+            <p style="text-align: center;">Share on: <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" target="_blank">Facebook</a> • <a href="https://twitter.com/share?url={{ site.url }}{{ post.url }}&amp;text={{ post.title }}" target="_blank">Twitter</a>
+
+			<p style="text-align: center;"><label for="our-popup-{{ forloop.index }}">cancel</label></p>
+		</div>
+  </span></div>
+
+
   </div>
 
+</article>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.url }}" class="left arrow">&#8592;</a>
-  {% endif %}
+{% endfor %}
+
+<div class="pagination" style="text-align: center;">
+
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.url }}" class="right arrow">&#8594;</a>
+    <h2><a href="{{ paginator.next_page_path }}" class="next">- meer items -</a></h2>
   {% endif %}
 
-  <span>{{ paginator.page }}</span>
+  {% if paginator.previous_page %}
+    <h2><a href="{{ paginator.previous_page_path }}" class="previous">- vorige pagina -</a></h2>
+  {% endif %}
+
 </div>

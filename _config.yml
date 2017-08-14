@@ -30,10 +30,6 @@ defaults:
 # Permalinks
 permalink:      /:title/
 
-header_pages:
-- about.md
-- contact.markdown
-
 # # Assets
 # sass:
 #   sass_dir:     _sass
