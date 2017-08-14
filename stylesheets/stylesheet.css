@@ -301,23 +301,3 @@ a:hover {
   padding-top: 25px;
 }
 
-@media screen and (min-width: 42em) {
-  .sharing-buttons {
-    max-width: 80%;
-    margin: 0 auto;} }
-
-    input {
-      font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 14px;
-      padding: 0.4em;
-      width: 75%;
-    }
-
-    @media screen and (max-width: 30em) {
-      input {
-        width: 100%; }
-    }
-
-    label:hover {
-        cursor: pointer;
-    }
