@@ -42,6 +42,6 @@ permalink:      /:title/
 #   url:          http://www.rogiervandenberg.nl
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
