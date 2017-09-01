@@ -80,15 +80,21 @@ a:hover {
   text-align: center;
   background: #56687C url('../img/cover.jpg') no-repeat 50%;
   background-size: cover;
+  min-height: 18em;
 }
 
+.page-header h1 {
+  padding-top: 2em;
+} 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 1rem 6rem; } }
+    padding: 1rem 6rem;
+    min-height: 25em; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 3rem 4rem;
+    min-height: 19em; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
