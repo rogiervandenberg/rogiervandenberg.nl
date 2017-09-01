@@ -85,7 +85,14 @@ a:hover {
 
 .page-header h1 {
   padding-top: 2em;
-} 
+}
+
+img.img-responsive {
+  float: right;
+  max-width: 200px !important;
+  padding: 0 10px;
+}
+
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 1rem 6rem;
