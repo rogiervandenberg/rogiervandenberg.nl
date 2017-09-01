@@ -1,11 +1,20 @@
 <header class="page-header">
-     <h1 class="project-name"> <a class="header-link" href="{{ site.baseurl }}/"> {{ site.title }}</a></h1>
-     <!--<h3 style="font-weight: lighter;">a blog for <a class="header-link" href="http://canijustgo.com/" target="_blank">canijustgo.com</a></h3>-->
-     <h3>{% if site.twitter_username %}<a class="header-link" href="http://twitter.com/{{ site.twitter_username }}" target="_blank">follow @{{ site.twitter_username }}</a></h3>{% endif %}
 
-     {% for page in site.pages %}
+    <div style="float:right; margin-right: 1em;">
+        {% if site.twitter_username %}<a class="header-link" href="http://twitter.com/{{ site.twitter_username }}" target="_blank">follow @{{ site.twitter_username }}</a>{% endif %}
+        -
+        <a class="header-link" href="/about/">Over</a>
+    </div>
+    <div style="clear: both;">
+
+  
+     <h1 class="project-name"> <a class="header-link" href="{{ site.baseurl }}/"> {{ site.title }}</a></h1>
+     <!-- <h3 style="font-weight: lighter;">a blog for <a class="header-link" href="http://canijustgo.com/" target="_blank">canijustgo.com</a></h3> -->
+     <!-- {% if site.twitter_username %}<h3 style="font-weight: lighter;"><a class="header-link" href="http://twitter.com/{{ site.twitter_username }}" target="_blank">follow @{{ site.twitter_username }}</a></h3>{% endif %} -->
+
+     <!-- {% for page in site.pages %}
       {% if page.title and page.hide != true %}
        <a class="page-link btn" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       {% endif %}
-     {% endfor %}
+     {% endfor %} -->
 </header>
