@@ -11,8 +11,8 @@ collections:
 email: mail@rogier.nu
 description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer, marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek.
 '
-baseurl: ''
-url: 'www.rogiervandenberg.nl'
+baseurl: '/'
+url: 'http://www.rogiervandenberg.nl'
 paginate:       5
 twitter_username: rogiervdberg
 github_username: rogiervandenberg
