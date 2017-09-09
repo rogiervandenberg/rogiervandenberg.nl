@@ -1,6 +1,6 @@
 ---
 title: 2 soorten spijt
-date: 2015-07-03 14:26:00 Z
+date: 2015-07-03 16:26:00 +02:00
 tags:
 - leiderschap
 - persoonlijk

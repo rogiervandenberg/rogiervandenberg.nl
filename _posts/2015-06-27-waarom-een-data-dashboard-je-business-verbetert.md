@@ -1,6 +1,6 @@
 ---
 title: Waarom een data-dashboard je business verbetert
-date: 2015-06-27 12:06:30 Z
+date: 2015-06-27 14:06:30 +02:00
 tags:
 - app-tag
 - klanten

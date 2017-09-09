@@ -1,6 +1,6 @@
 ---
 title: 'Je dromen najagen: Waarom zou je het moeten proberen?'
-date: 2016-03-06 14:26:29 Z
+date: 2016-03-06 15:26:29 +01:00
 tags:
 - leiderschap
 layout: post

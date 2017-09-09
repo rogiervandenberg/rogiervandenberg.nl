@@ -1,6 +1,6 @@
 ---
 title: Slim samenwerken met je klanten
-date: 2015-02-16 20:11:55 Z
+date: 2015-02-16 21:11:55 +01:00
 tags:
 - klanten
 layout: post

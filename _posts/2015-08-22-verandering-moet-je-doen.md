@@ -1,6 +1,6 @@
 ---
 title: Verandering moet je doen
-date: 2015-08-22 11:41:37 Z
+date: 2015-08-22 13:41:37 +02:00
 tags:
 - leiderschap
 layout: post

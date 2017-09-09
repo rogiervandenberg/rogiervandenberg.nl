@@ -1,6 +1,6 @@
 ---
 title: Maak kennis met Periscope
-date: 2015-09-06 12:06:58 Z
+date: 2015-09-06 14:06:58 +02:00
 tags:
 - app-tag
 layout: post

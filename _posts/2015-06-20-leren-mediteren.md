@@ -1,6 +1,6 @@
 ---
 title: Leren mediteren
-date: 2015-06-20 13:02:16 Z
+date: 2015-06-20 15:02:16 +02:00
 tags:
 - app-tag
 - leiderschap

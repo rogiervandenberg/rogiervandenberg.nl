@@ -1,6 +1,6 @@
 ---
 title: Het belangrijkste bij een video
-date: 2015-11-14 09:00:00 Z
+date: 2015-11-14 10:00:00 +01:00
 tags:
 - lifehack
 - productivity

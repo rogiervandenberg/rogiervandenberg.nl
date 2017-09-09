@@ -1,6 +1,6 @@
 ---
 title: Mijn ‘Five Minute Journal’
-date: 2015-04-11 09:44:09 Z
+date: 2015-04-11 11:44:09 +02:00
 tags:
 - lifehack
 - leiderschap

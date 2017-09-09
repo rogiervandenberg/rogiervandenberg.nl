@@ -1,6 +1,6 @@
 ---
 title: Sneller je email doornemen dan ooit?
-date: 2014-10-01 10:00:00 Z
+date: 2014-10-01 12:00:00 +02:00
 tags:
 - email
 - productivity

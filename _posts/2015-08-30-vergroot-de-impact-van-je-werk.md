@@ -1,6 +1,6 @@
 ---
 title: Vergroot de impact van je werk
-date: 2015-08-30 13:20:55 Z
+date: 2015-08-30 15:20:55 +02:00
 tags:
 - productivity
 layout: post

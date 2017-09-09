@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign months = "januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december" | split: "|" %}
 {% assign m = page.date | date: "%-m" | minus: 1 %}
 {% assign day = page.date | date: "%-d" %}

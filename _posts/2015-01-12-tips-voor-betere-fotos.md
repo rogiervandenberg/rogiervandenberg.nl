@@ -1,6 +1,6 @@
 ---
 title: 3 simpele tips voor betere foto's
-date: 2015-01-12 21:05:00 Z
+date: 2015-01-12 22:05:00 +01:00
 tags:
 - fotografie
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Hoe gaat het met me?
-date: 2016-04-02 14:20:28 Z
+date: 2016-04-02 16:20:28 +02:00
 tags:
 - persoonlijk
 layout: post

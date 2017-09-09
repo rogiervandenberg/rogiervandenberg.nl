@@ -1,6 +1,6 @@
 ---
 title: Wat gedachten over een streepje
-date: 2016-03-25 16:05:52 Z
+date: 2016-03-25 17:05:52 +01:00
 tags:
 - lifehack
 - productivity

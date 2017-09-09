@@ -1,6 +1,6 @@
 ---
 title: Dapper zijn, waar ben ik bang voor?
-date: 2017-01-09 17:15:22 Z
+date: 2017-01-09 18:15:22 +01:00
 tags:
 - persoonlijk
 layout: post

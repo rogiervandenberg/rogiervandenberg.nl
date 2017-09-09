@@ -1,6 +1,6 @@
 ---
 title: Hoe kun je werken aan je eigen geluk?
-date: 2014-12-10 11:00:00 Z
+date: 2014-12-10 12:00:00 +01:00
 tags:
 - leiderschap
 layout: post

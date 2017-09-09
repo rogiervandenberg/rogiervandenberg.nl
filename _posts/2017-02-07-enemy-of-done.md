@@ -1,6 +1,6 @@
 ---
 title: Perfect is the enemy of done
-date: 2017-02-07 19:16:54 Z
+date: 2017-02-07 20:16:54 +01:00
 tags:
 - klanten
 - ondernemen

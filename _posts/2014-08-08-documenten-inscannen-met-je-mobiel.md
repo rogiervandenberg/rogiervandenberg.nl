@@ -1,6 +1,6 @@
 ---
 title: Documenten inscannen met je mobiel
-date: 2014-08-08 10:00:00 Z
+date: 2014-08-08 12:00:00 +02:00
 tags:
 - productivity
 - app-tag

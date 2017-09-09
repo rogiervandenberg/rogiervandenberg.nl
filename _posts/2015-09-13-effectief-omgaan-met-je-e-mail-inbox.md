@@ -1,6 +1,6 @@
 ---
 title: Effectief omgaan met je e-mail inbox
-date: 2015-09-13 18:06:12 Z
+date: 2015-09-13 20:06:12 +02:00
 tags:
 - productivity
 layout: post

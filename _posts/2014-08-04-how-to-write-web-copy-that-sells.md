@@ -1,6 +1,6 @@
 ---
 title: “How to Write Web Copy That Sells"
-date: 2014-08-04 10:00:00 Z
+date: 2014-08-04 12:00:00 +02:00
 tags:
 - productivity
 layout: post

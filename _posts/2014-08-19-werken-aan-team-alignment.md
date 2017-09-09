@@ -1,6 +1,6 @@
 ---
 title: Het geheim van team-alignment
-date: 2014-08-19 10:00:00 Z
+date: 2014-08-19 12:00:00 +02:00
 tags:
 - leiderschap
 layout: post

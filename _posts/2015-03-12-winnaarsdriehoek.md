@@ -1,6 +1,6 @@
 ---
 title: Winnaarsdriehoek
-date: 2015-03-12 20:39:40 Z
+date: 2015-03-12 21:39:40 +01:00
 tags:
 - leiderschap
 layout: post

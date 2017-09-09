@@ -1,6 +1,6 @@
 ---
 title: Gebroken ketting
-date: 2015-04-27 14:58:03 Z
+date: 2015-04-27 16:58:03 +02:00
 layout: post
 ---
 

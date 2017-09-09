@@ -1,6 +1,6 @@
 ---
 title: Waarom je een tweede monitor moet overwegen
-date: 2014-08-10 10:00:00 Z
+date: 2014-08-10 12:00:00 +02:00
 tags:
 - productivity
 layout: post

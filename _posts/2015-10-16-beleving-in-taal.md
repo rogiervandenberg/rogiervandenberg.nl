@@ -1,6 +1,6 @@
 ---
 title: Beleving in taal
-date: 2015-10-16 13:21:25 Z
+date: 2015-10-16 15:21:25 +02:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Blogblokkadebeschouwing
-date: 2016-02-26 15:14:00 Z
+date: 2016-02-26 16:14:00 +01:00
 tags:
 - leiderschap
 - persoonlijk

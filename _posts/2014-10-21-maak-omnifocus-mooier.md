@@ -1,6 +1,6 @@
 ---
 title: Maak Omnifocus mooier
-date: 2014-10-21 10:00:00 Z
+date: 2014-10-21 12:00:00 +02:00
 layout: post
 ---
 

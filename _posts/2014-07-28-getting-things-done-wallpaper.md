@@ -1,6 +1,6 @@
 ---
 title: Getting Things Done wallpaper
-date: 2014-07-28 10:00:00 Z
+date: 2014-07-28 12:00:00 +02:00
 tags:
 - gtd
 layout: post

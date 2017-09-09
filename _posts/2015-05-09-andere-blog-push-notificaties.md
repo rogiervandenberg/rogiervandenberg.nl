@@ -1,6 +1,6 @@
 ---
 title: Mijn andere blog en pushnotificaties
-date: 2015-05-09 08:00:00 Z
+date: 2015-05-09 10:00:00 +02:00
 layout: post
 ---
 

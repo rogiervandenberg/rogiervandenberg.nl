@@ -1,6 +1,6 @@
 ---
 title: Leeghoofd
-date: 2015-07-22 19:31:22 Z
+date: 2015-07-22 21:31:22 +02:00
 tags:
 - persoonlijk
 layout: post

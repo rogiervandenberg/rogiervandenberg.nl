@@ -1,6 +1,6 @@
 ---
 title: Iets in mijzelf ontdekt
-date: 2015-10-31 08:09:34 Z
+date: 2015-10-31 09:09:34 +01:00
 tags:
 - leiderschap
 - persoonlijk

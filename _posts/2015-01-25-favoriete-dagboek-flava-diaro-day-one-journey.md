@@ -1,6 +1,6 @@
 ---
 title: 'Mijn favoriete dagboek applicatie: Flava, Diaro, Day One of Journey?'
-date: 2015-01-25 09:00:00 Z
+date: 2015-01-25 10:00:00 +01:00
 tags:
 - app-tag
 layout: post

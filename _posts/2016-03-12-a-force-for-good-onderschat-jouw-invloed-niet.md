@@ -1,6 +1,6 @@
 ---
 title: 'A force for good: Onderschat jouw invloed niet'
-date: 2016-03-12 10:49:07 Z
+date: 2016-03-12 11:49:07 +01:00
 tags:
 - leiderschap
 layout: post

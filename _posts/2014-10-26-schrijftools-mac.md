@@ -1,6 +1,6 @@
 ---
 title: Schrijftools (mac)
-date: 2014-10-26 11:00:00 Z
+date: 2014-10-26 12:00:00 +01:00
 tags:
 - productivity
 - app-tag

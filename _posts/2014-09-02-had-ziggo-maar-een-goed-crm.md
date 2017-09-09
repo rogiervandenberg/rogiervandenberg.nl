@@ -1,6 +1,6 @@
 ---
 title: Had Ziggo maar een goed CRM
-date: 2014-09-02 10:00:00 Z
+date: 2014-09-02 12:00:00 +02:00
 tags:
 - klanten
 layout: post

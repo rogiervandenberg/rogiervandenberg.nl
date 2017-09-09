@@ -1,6 +1,6 @@
 ---
 title: Vergeet de melk nooit meer
-date: 2014-07-19 10:00:00 Z
+date: 2014-07-19 12:00:00 +02:00
 layout: post
 ---
 

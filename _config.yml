@@ -8,44 +8,27 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: img
+  values:
+    image: true
 email: mail@rogier.nu
-description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer, marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek.
-'
+description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer,
+  marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek. '
 baseurl: ''
-url: 'http://www.rogiervandenberg.nl'
-paginate:       5
+url: http://www.rogiervandenberg.nl
+paginate: 5
 twitter_username: rogiervdberg
 github_username: rogiervandenberg
 markdown: kramdown
 theme: minima
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: "img"
-    values:
-      image: true
-
-# Permalinks
-permalink:      /:title/
-
-# # Assets
-# sass:
-#   sass_dir:     _sass
-#   style:        :compressed
-
-
-# # About
-# author:
-#   name:         Rogier van den Berg
-#   url:          http://www.rogiervandenberg.nl
-
-# Gems
+permalink: "/:title/"
 plugins:
-  - jekyll-paginate
-  - jekyll-feed
+- jekyll-paginate
+- jekyll-feed

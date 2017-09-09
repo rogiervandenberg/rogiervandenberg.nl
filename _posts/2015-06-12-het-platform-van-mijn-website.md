@@ -1,6 +1,6 @@
 ---
 title: Het platform van mijn website
-date: 2015-06-12 11:25:51 Z
+date: 2015-06-12 13:25:51 +02:00
 tags:
 - app-tag
 layout: post

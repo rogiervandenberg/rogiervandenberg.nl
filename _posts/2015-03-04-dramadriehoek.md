@@ -1,6 +1,6 @@
 ---
 title: Dramadriehoek
-date: 2015-03-04 12:46:10 Z
+date: 2015-03-04 13:46:10 +01:00
 tags:
 - leiderschap
 layout: post

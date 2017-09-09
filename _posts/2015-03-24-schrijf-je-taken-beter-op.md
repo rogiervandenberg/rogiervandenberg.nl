@@ -1,6 +1,6 @@
 ---
 title: Schrijf je taken beter op
-date: 2015-03-24 21:18:16 Z
+date: 2015-03-24 22:18:16 +01:00
 tags:
 - productivity
 layout: post

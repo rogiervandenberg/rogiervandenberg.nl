@@ -1,6 +1,6 @@
 ---
 title: Dagboek op papier
-date: 2017-01-17 21:18:43 Z
+date: 2017-01-17 22:18:43 +01:00
 tags:
 - lifehack
 - productivity

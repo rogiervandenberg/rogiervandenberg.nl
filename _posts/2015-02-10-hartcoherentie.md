@@ -1,6 +1,6 @@
 ---
 title: Hartcoherentie
-date: 2015-02-10 08:00:00 Z
+date: 2015-02-10 09:00:00 +01:00
 tags:
 - lifehack
 - productivity

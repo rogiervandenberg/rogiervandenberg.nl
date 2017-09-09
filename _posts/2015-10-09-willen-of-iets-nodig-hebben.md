@@ -1,6 +1,6 @@
 ---
 title: Willen of iets nodig hebben?
-date: 2015-10-09 16:38:00 Z
+date: 2015-10-09 18:38:00 +02:00
 tags:
 - marketing
 layout: post

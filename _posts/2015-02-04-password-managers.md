@@ -1,6 +1,6 @@
 ---
 title: 'Wachtwoorden: Een paar simpele tips om niet zomaar gehackt te worden'
-date: 2015-02-04 21:00:00 Z
+date: 2015-02-04 22:00:00 +01:00
 tags:
 - lifehack
 - productivity

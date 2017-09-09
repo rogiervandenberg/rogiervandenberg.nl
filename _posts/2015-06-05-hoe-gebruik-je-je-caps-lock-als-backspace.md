@@ -1,6 +1,6 @@
 ---
 title: Hoe gebruik je je CAPS-lock als backspace?
-date: 2015-06-05 19:11:25 Z
+date: 2015-06-05 21:11:25 +02:00
 tags:
 - lifehack
 - productivity
