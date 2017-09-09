@@ -7,14 +7,14 @@ Onlangs besloot ik mijn website weer nieuw leven in te blazen, daar kijk je nu n
 ## FTP’en
 In de jaren ’90 waren er 2 manieren om je website te maken en te onderhouden:
 * Je schreef zelf de HTML-code, wat door je browser werd weergegeven als een website
-* Je maakte je website met een ‘tool’ als Dreamweaver. Je kon dan, alsof je een documentje in Word maakt, je site bij elkaar klikken.
+* Je maakte je website met een ‘tool’ als [Dreamweaver][1] of [FrontPage][2]. Je kon dan, alsof je een documentje in Word maakt, je site bij elkaar klikken.
 
 Vervolgens kreeg je een hele verzameling .htm bestanden en plaatjes. Deze moest je vervolgens ergens uploaden.
 
 Dit was complex (voor een niet-nerd), gaf gedoe, het was foutgevoelig, mensen overschreven elkaars werk, etc. Je had ook altijd een techneut nodig om iets aan te passen.
 
 ## CMS’en
-Toen kwamen er CMS’en ([Content Management Systeem][1]). Daarvoor wordt één keer het ontwerp van een website gemaakt. De inhoud van je site komt uit een database. Je hebt een stukje software – het CMS – waarmee je je teksten kunt beheren en opslaan in de database.
+Toen kwamen er CMS’en ([Content Management Systeem][3]). Daarvoor wordt één keer het ontwerp van een website gemaakt. De inhoud van je site komt uit een database. Je hebt een stukje software – het CMS – waarmee je je teksten kunt beheren en opslaan in de database.
 
 Als iemand jouw website dan bezoekt, dan wordt aan de hand van de pagina die je bekijkt de juiste tekst uit de database gehaald, de website voor je samengesteld zoals hij er dan uit moet zien in die situatie voor die bezoeker en vervolgens getoond aan de bezoeker.
 
@@ -46,19 +46,19 @@ Er zijn wél CMS’en voor een statische site. Maar in plaats van dat deze iets 
 
 Het is supergoedkoop, deze website kost mij bijvoorbeeld **niets**. Ik betaal alleen voor de domeinnaam. De hosting verloopt via “CDN’s” die mijn site gratis hosten omdat hij zo ‘weinig resources’ kost. Er hoeft immers niets te gebeuren, alleen af en toe een bestandje te worden teruggegeven. Geen database, moeilijke webservers, beveiligingen, etc.
 
-Je bent CMS onafhankelijk. Momenteel gebruik ik mijn computer waarop ik teksten schrijf (in Markdown) en met 1 commando publiceer. Maar ik heb ook al gespeeld met het [Netlify CMS][2] en wil nog gaan kijken naar [Dato][3] en [Forestry.io][4]. Dat zijn online CMS’en, waarin je je content schrijft, zij slaan jouw werk op bij je website-bestanden. Vanaf daar wordt het weer automatisch live gezet (zie ‘Mijn opzet’).
+Je bent CMS onafhankelijk. Momenteel gebruik ik mijn computer waarop ik teksten schrijf (in Markdown) en met 1 commando publiceer. Maar ik heb ook al gespeeld met het [Netlify CMS][4] en wil nog gaan kijken naar [Dato][5] en [Forestry.io][6]. Dat zijn online CMS’en, waarin je je content schrijft, zij slaan jouw werk op bij je website-bestanden. Vanaf daar wordt het weer automatisch live gezet (zie ‘Mijn opzet’). [Zie hier een groot overzicht][7].
 
 ### Nadelen
 Natuurlijk zijn er ook wat nadelen te noemen:
 * Extreem complexe websites, die bijvoorbeeld alternatieve inhoud bij verschillende soorten bezoekers tonen, zijn niet mogelijk. Denk aan webshops, interactieve websites of web-applicaties.
-* Het opzetten van een statische website is initieel wat lastiger dan een account aanmaken op bv. [Wordpress][5], [Ghost][6] of [Wix][7] (waar ik overigens allemaal ervaring mee heb). Het is vergelijkbaar met het starten van een self hosted Wordpress qua complexiteit.
+* Het opzetten van een statische website is initieel wat lastiger dan een account aanmaken op bv. [Wordpress][8], [Ghost][9] of [Wix][10] (waar ik overigens allemaal ervaring mee heb). Het is vergelijkbaar met het starten van een self hosted Wordpress qua complexiteit.
 
 ## Mijn opzet
-Hoe werkt dit alles bij mij? Ik heb mijn site ontwerp (Ja, die is basic, maar voor mijn blog voldoende) gemaakt. Dit heb ik vervolgens in een [Jekyll][8]-project geïmplementeerd. Dat is zo’n *static site generator*. Maar je kunt bv. ook kijken naar [Hugo][9].
+Hoe werkt dit alles bij mij? Ik heb mijn site ontwerp (Ja, die is basic, maar voor mijn blog voldoende) gemaakt. Dit heb ik vervolgens in een [Jekyll][11]-project geïmplementeerd. Dat is zo’n *static site generator*. Maar je kunt bv. ook kijken naar [Hugo][12].
 
-Alle bestandjes van opmaak, plaatjes, etc. en een map met “posts” zijn de ingrediënten voor mijn website. Deze sla ik gratis [online op in mijn GitHub-account][10].
+Alle bestandjes van opmaak, plaatjes, etc. en een map met “posts” zijn de ingrediënten voor mijn website. Deze sla ik gratis [online op in mijn GitHub-account][13].
 
-Ik heb een account by [Netlify][11], deze is gekoppeld aan mijn Github-account. Als er iets wijzigt aan de bron-data van mijn site (een artikel, pagina of design wijziging) en ik sla het op op GitHub, dan maakt Netlify hier automatisch een nieuwe website van en zij zorgen voor de verdere hosting.
+Ik heb een account by [Netlify][14], deze is gekoppeld aan mijn Github-account. Als er iets wijzigt aan de bron-data van mijn site (een artikel, pagina of design wijziging) en ik sla het op op GitHub, dan maakt Netlify hier automatisch een nieuwe website van en zij zorgen voor de verdere hosting.
 
 ![][image-1]
 
@@ -72,20 +72,23 @@ Het enige wat ik dus hoef te doen, is zorgen dat wat ik live wil hebben op de go
 Net hoe het mij uitkomt dus! :)
 
 ## Zonder Netlify
-Het is ook een stukje eenvoudiger te maken, **mits je Jekyll gebruikt** (niet bv. [Hugo of één van de andere vele generators][12]). [GitHub heeft namelijk ingebouwde build-methode voor Jekyll websites][13]. Dat betekent dat je alleen maar hoeft te zorgen dat je content op Github terecht komt, zij zorgen dan voor het builden en hosten. Ook weer kosteloos! En ja, hierbij werkt zo’n static site CMS net zo goed.
+Het is ook een stukje eenvoudiger te maken, **mits je Jekyll gebruikt** (niet bv. [Hugo of één van de andere vele generators][15]). [GitHub heeft namelijk ingebouwde build-methode voor Jekyll websites][16]. Dat betekent dat je alleen maar hoeft te zorgen dat je content op Github terecht komt, zij zorgen dan voor het builden en hosten. Ook weer kosteloos! En ja, hierbij werkt zo’n static site CMS net zo goed.
 
-[1]:	https://nl.wikipedia.org/wiki/Contentmanagementsysteem
-[2]:	https://www.netlifycms.org/
-[3]:	https://www.datocms.com/
-[4]:	https://forestry.io
-[5]:	https://nl.wordpress.com/
-[6]:	https://ghost.org/
-[7]:	https://nl.wix.com/
-[8]:	https://jekyllrb.com/
-[9]:	https://gohugo.io/
-[10]:	https://github.com/rogiervandenberg/rogiervandenberg
-[11]:	https://www.netlify.com/
-[12]:	https://www.staticgen.com/
-[13]:	https://pages.github.com/
+[1]:	https://en.wikipedia.org/wiki/Adobe_Dreamweaver
+[2]:	https://en.wikipedia.org/wiki/Microsoft_FrontPage
+[3]:	https://nl.wikipedia.org/wiki/Contentmanagementsysteem
+[4]:	https://www.netlifycms.org/
+[5]:	https://www.datocms.com/
+[6]:	https://forestry.io
+[7]:	https://headlesscms.org/
+[8]:	https://nl.wordpress.com/
+[9]:	https://ghost.org/
+[10]:	https://nl.wix.com/
+[11]:	https://jekyllrb.com/
+[12]:	https://gohugo.io/
+[13]:	https://github.com/rogiervandenberg/rogiervandenberg
+[14]:	https://www.netlify.com/
+[15]:	https://www.staticgen.com/
+[16]:	https://pages.github.com/
 
 [image-1]:	https://docs.google.com/drawings/d/e/2PACX-1vTSTbHjV3_Tr6sjIvOFkYPNKWSgiAvDUTZUstfrRNYhL-fo3IlUDF-iGu87lr2y2m_6ZdiQsFSzi2mK/pub?w=930&amp;h=607
