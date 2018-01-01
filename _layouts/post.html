@@ -1,24 +1,42 @@
----
-layout: default
----
-
 {% assign months = "januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december" | split: "|" %}
 {% assign m = page.date | date: "%-m" | minus: 1 %}
 {% assign day = page.date | date: "%-d" %}
 {% assign month = months[m] %}
 {% assign year = page.date | date: "%Y" %}
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <div class="main-content" itemprop="articleBody">
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }} {{ month }} {{ year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
 
-    {{ content }}
-  </div>
 
-<a href="{{ site.url }}{{ site.baseurl }}"><h3 style="text-align: center;">- terug -</h3></a>
+<!DOCTYPE html>
+<html lang="en">
 
-</article>
+  {% include head.html %}
+
+  <body>
+
+    <section class="main-content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+          <div class="main-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+         <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }} {{ month }} {{ year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+        </header>
+      
+          {{ content }}
+        </div>
+      
+      <a href="{{ site.url }}{{ site.baseurl }}"><h3 style="text-align: center;">- terug -</h3></a>
+      
+      </article>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+
+  </body>
+
+</html>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
