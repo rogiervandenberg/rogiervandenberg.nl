@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Twee wolven
+date: 2018-01-28 00:00:00 +01:00
+layout: post
 ---
+
 Vandaag had ik een heel mooi inzicht tijdens mijn meditatiesessie. *De gedachten die je het meest voedt, worden ook het sterkst.*
 
 ## Goed en kwaad
