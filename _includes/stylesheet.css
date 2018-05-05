@@ -83,6 +83,15 @@ a:hover {
   min-height: 18em;
 }
 
+.page-small-header {
+  background: #56687C;
+  min-height: 5em;
+}
+
+.page-small-header h1 {
+  margin: 0;
+}
+
 .page-header h1 {
   padding-top: 2em;
 }
