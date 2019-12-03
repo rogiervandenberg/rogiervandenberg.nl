@@ -121,7 +121,7 @@ Change PROJECT\_ID into your project ID and take note of the OIDC token and the 
 If you execute a function with the above snippet, it will enqueue a task on 'my-queue'.
 
 ### The 'triggered function'
-The function that is triggered by the Task Queue will do the actual work. This function will be triggered over HTTP, and therefore cannot be publicly available.
+The function that is triggered by the Task Queue will do the actual work. This function will be triggered over HTTP, and therefore must not allow unauthenticated invocations (to prevent abuse).
 
 Furthermore, you want to be able to receive data from the sending function.
 
@@ -157,7 +157,7 @@ You now have set up 3 things:
 At Embrosa we are using this in the following way:
 ![Cloud Functions using Task Queue](/img/cfs-with-cloud-tasks-full-solution.png)
 
-And now, the "other services" are not breaking anymore when we have suddenly a surge in the amount of things done on the left side of the diagram, because Cloud Tasks is taking care of limiting the amount of calls.
+And now, the "other services" are not breaking anymore when we have suddenly a surge in the amount of things done on the left side of the diagram, because Cloud Tasks is taking care of limiting the amount of calls and retrying if something might fail.
 
 [1]:	https://cloud.google.com/sdk/docs/initializing
 [2]:	https://www.npmjs.com/package/@google-cloud/tasks
