@@ -1,42 +1,40 @@
-{% assign months = "januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december" | split: "|" %}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{% assign day = page.date | date: "%-d" %}
-{% assign month = months[m] %}
-{% assign year = page.date | date: "%Y" %}
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
-
-  {% include head.html %}
-
-  <body>
-      {% include header_small.html %}
-    <section class="main-content">
-      <div class="wrapper">
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-          <div class="main-content" itemprop="articleBody">
-        <header class="post-header">
-          <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-         <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }} {{ month }} {{ year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-        </header>
-      
-          {{ content }}
-        </div>
-      
-      <a href="{{ site.url }}{{ site.baseurl }}"><h3 style="text-align: center;">- terug -</h3></a>
-      
-      </article>
-      </div>
+<head>
+  {%- include head.html -%}
+</head>
+<body>
+  <header class="texture-{{ site.texture.style }}">
+    <div class="container">
+      {%- include nav.html -%}
     </div>
+    {%- include post_header.html -%}  
+  </header>
+  <main>
+    <div class="container">
+      <div class="post-container">
+          {{ content }}
+      </div>
 
-    {% include footer.html %}
-
-
-  </body>
-
+        <!-- Configure Disqus -->
+      {%- if site.texture.disqus_shortname -%}
+        <div id="disqus_thread" style="margin-top:25px"></div>
+        <script>
+          var disqus_config = function () {
+            this.page.url = '{{ page.url | absolute_url }}';
+            this.page.identifier = '{{ page.url | absolute_url }}';
+          };
+          (function() {
+            var d = document, s = d.createElement('script');
+            s.src = 'https://{{ site.texture.disqus_shortname }}.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+      {%- endif -%}
+    </div>
+  </main>
+  {%- include footer.html -%}
+</body>
 </html>
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>

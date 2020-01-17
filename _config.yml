@@ -1,34 +1,41 @@
----
 title: Rogier van den Berg
-timezone: CET
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-- scope:
-    path: img
-  values:
-    image: true
+author: Rogier van den Berg
 email: mail@rogier.nu
 description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer,
-  marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek. '
+marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek. '
+show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: ''
-url: http://www.rogiervandenberg.nl
-paginate: 5
-twitter_username: rogiervdberg
-github_username: rogiervandenberg
-markdown: kramdown
-theme: minima
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
 permalink: "/:title/"
+texture:
+  title: Rogier van den Berg
+  tagline: Co-Founder Embrosa. Developer.
+  date_format: "%b %-d"
+  style: blue
+  showNav: true
+  showPicker: false
+
+  # generate social links in footer
+  social_links:
+    twitter: rogiervdberg
+    github:  rogiervandenberg
+    linkedIn: in/rogiervandenberg
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
 plugins:
-- jekyll-paginate
-- jekyll-feed
+  - jekyll-seo-tag
+#  - jekyll-feed
