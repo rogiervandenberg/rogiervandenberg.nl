@@ -77,7 +77,7 @@ title: Rogier van den Berg
 email: mail@rogier.nu
 description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer,
 marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek. '
-logo: "/assets/embrosa_shoot_pasfoto" # Site logo
+logo: "/assets/embrosa_shoot_pasfoto.png" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rogiervandenberg.nl" # the base hostname & protocol for your site, e.g. http://example.com
