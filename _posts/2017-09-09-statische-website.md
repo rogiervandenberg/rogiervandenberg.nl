@@ -2,6 +2,7 @@
 title: Statische websites zijn cool
 date: 2017-09-09 00:00:00 +02:00
 layout: post
+category: Tech
 ---
 
 Onlangs besloot ik mijn website weer nieuw leven in te blazen, daar kijk je nu naar. Wat echt nieuw is, is de manier waarop deze werkt. Het is namelijk een ‘statische website’, omdat ik denk dat de tijd waarbij een website standaard werd gemaakt op basis van een CMS (Wordpress, Ghost, etc.) in de meeste gevallen voorbij is.

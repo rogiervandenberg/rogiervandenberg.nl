@@ -2,6 +2,7 @@
 title: Gaan we weer bloggen?
 date: 2017-09-01 00:00:00 +02:00
 layout: post
+category: Personal development
 ---
 
 Het is alweer even geleden dat ik een blogpost schreef. Hoe komt dat? Slecht antwoord: “Ik ben te druk” Reëler antwoord: “Ik geef het geen prioriteit”.

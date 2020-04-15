@@ -4,6 +4,7 @@ date: 2016-04-02 16:20:28 +02:00
 tags:
 - persoonlijk
 layout: post
+category: Personal development
 ---
 
 Ik ben nu 3 maanden [gestopt met werken bij Procurios](/ontslag). “Hoe gaat het met je, op een schaal van 1 tot 10?”, werd gisteren aan mij gevraagd.

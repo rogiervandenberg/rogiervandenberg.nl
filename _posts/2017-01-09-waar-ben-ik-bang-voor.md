@@ -4,6 +4,7 @@ date: 2017-01-09 18:15:22 +01:00
 tags:
 - persoonlijk
 layout: post
+category: Personal development
 ---
 
 Afgelopen jaar heb ik heel veel bereikt. Na het [stoppen met mijn werk bij Procurios](http://rogiervandenberg.nl/ontslag) heb ik veel gedaan en geleerd. Workshops en gastcollege gegeven, nieuwe mensen ontmoet en natuurlijk mijn [eigen bedrijf](http://www.embrosa.com/) gestart, samen met [Melanie](https://nl.linkedin.com/in/melanievannorden).

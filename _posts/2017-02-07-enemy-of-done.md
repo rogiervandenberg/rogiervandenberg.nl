@@ -5,6 +5,7 @@ tags:
 - klanten
 - ondernemen
 layout: post
+category: Personal development
 ---
 
 Vaak bouw ik aan ons product: [Embrosa](http://www.embrosa.com). Ik programmeer nieuwe dingen waar klanten om vragen. Of ik voeg dingen toe waarvan we zelf denken dat het waardevol is.

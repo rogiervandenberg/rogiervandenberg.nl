@@ -5,6 +5,7 @@ tags:
 - lifehack
 - productivity
 layout: post
+category: Personal development
 ---
 
 *"Je leven is het meest waardevolle dat je hebt, maar toch zijn er maar weinig mensen die de moeite nemen het te documenteren."*

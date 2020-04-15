@@ -66,7 +66,7 @@ For Typescript/Javascript you need to make sure you are using the [Cloud Tasks N
 #### OIDC token
 GCP Services like Cloud Functions, etc. can automatically validate the inbound OIDC token. This allows for authentication and authorization through IAM policies for the user or service account associated with that token. We use this to securely trigger our receiving function over HTTPS without allowing it to be public.
 
-When setting up the Cloud Function that will be triggered by the task queue, check for the Service account that it uses. Use that email address as the serviceAccountEmail to specify in setting the task on the queue. This is most probably '[PROJECT\_ID@appspot.gserviceaccount.com][4]'.
+When setting up the Cloud Function that will be triggered by the task queue, check for the Service account that it uses. Use that email address as the serviceAccountEmail to specify in setting the task on the queue. This is most probably 'PROJECT\_ID@appspot.gserviceaccount.com'.
 
 #### Content Type JSON
 This seems logical once knowing, but if you omit to specify the correct headers, the receiving cloud function cannot use all data you send.
@@ -140,10 +140,10 @@ export async function myFunction(req: Request, res: Response) {
 
 Because the incoming data is JSON, we have the original payload object again. So you can make use of `payload.foo` for instance (= "bar").
 
-When this function is deployed, take a look at its details (click on the link in of your Cloud Function in the [https://console.cloud.google.com/functions/][5] overview. Check if the Service account is indeed '[PROJECT\_ID@appspot.gserviceaccount.com][6]'.
+When this function is deployed, take a look at its details (click on the link in of your Cloud Function in the [https://console.cloud.google.com/functions/][5] overview. Check if the Service account is indeed 'PROJECT\_ID@appspot.gserviceaccount.com'.
 
 #### Keeping it safe
-If you look at the [IAM Permissions of your project][7] you can see there is a member with the name "Cloud Tasks Service Account" and the role "Cloud Tasks Service Agent". We only want this member to be allowed to call our Cloud Function. Its email address will be service-PROJECTNUMBER@gcp-sa-cloudtasks.iam.gserviceaccount.com	→ remember / copy that address.
+If you look at the [IAM Permissions of your project][6] you can see there is a member with the name "Cloud Tasks Service Account" and the role "Cloud Tasks Service Agent". We only want this member to be allowed to call our Cloud Function. Its email address will be service-PROJECTNUMBER@gcp-sa-cloudtasks.iam.gserviceaccount.com	→ remember / copy that address.
 
 In the overview of Cloud Functions, look for your cloud function that is triggered by the Task queue, check its checkbox and look at permissions.
 
@@ -163,8 +163,6 @@ And now, the "other services" are not breaking anymore when we have suddenly a s
 [1]:	https://cloud.google.com/sdk/docs/initializing
 [2]:	https://www.npmjs.com/package/@google-cloud/tasks
 [3]:	https://www.npmjs.com/package/@google-cloud/tasks#using-the-client-library
-[4]:	PROJECT_ID@appspot.gserviceaccount.com
-[5]:	https://console.cloud.google.com/functions/
-[6]:	PROJECT_ID@appspot.gserviceaccount.com
-[7]:	https://console.cloud.google.com/iam-admin/iam
+[4]:	https://console.cloud.google.com/functions/
+[5]:	https://console.cloud.google.com/iam-admin/iam
 
