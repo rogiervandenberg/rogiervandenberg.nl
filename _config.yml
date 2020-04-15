@@ -1,41 +1,84 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- Gemfile
+- Gemfile.lock
+- garth-jekyll-theme.gemspec
+- .jekyll-cache
+
+# 2. Installed Gems
+plugins:
+- jekyll-paginate
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: page:num # jekyll-paginate > blog page
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+# collections:
+#   posts:
+#     title: Blog # Needed for Siteleaf
+#     output: true
+#     description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+
+# 7. Site settings
 title: Rogier van den Berg
-author: Rogier van den Berg
 email: mail@rogier.nu
 description: 'Co-Founder van Embrosa (@EmbrosaNL) #StartUp Online specialist, software-engineer,
 marketeer. Getrouwd en papa. Verbindt mensen, gek op techniek. '
-show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: ''
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
-
-permalink: "/:title/"
-texture:
-  title: Rogier van den Berg
-  tagline: Co-Founder Embrosa. Developer.
-  date_format: "%b %-d"
-  style: blue
-  showNav: true
-  showPicker: false
-
-  # generate social links in footer
-  social_links:
-    twitter: rogiervdberg
-    github:  rogiervandenberg
-    linkedIn: in/rogiervandenberg
-    rss: rss
- 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-# theme: texture
-
-plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+logo: "/assets/embrosa_shoot_pasfoto.png" # Site logo
+# favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.rogiervandenberg.nl" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title:output_ext

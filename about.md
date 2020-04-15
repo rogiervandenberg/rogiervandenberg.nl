@@ -1,5 +1,5 @@
 ---
-title: Over deze website
+title: Over / about
 permalink: "/about/"
 layout: page
 ---

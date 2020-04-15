@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Task queues on GCP with Google Cloud Functions
+category: Tech
 ---
 
 At our company [Embrosa](https://www.embrosa.com) we have many microservices, that all handle one specific part of our platform. An example is that when a user profile is changed, some of this data is synchronized to other services, by using a Firestore triggered Cloud Function.
