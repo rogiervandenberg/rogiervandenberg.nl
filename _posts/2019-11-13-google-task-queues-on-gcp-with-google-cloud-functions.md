@@ -7,6 +7,7 @@ category: Tech
 At our company [Embrosa](https://www.embrosa.com) we have many microservices, that all handle one specific part of our platform. An example is that when a user profile is changed, some of this data is synchronized to other services, by using a Firestore triggered Cloud Function.
 
 This looks like this:
+
 ![Cloud Functions without Task queue](/img/cfs-no-queue.png)
 
 ## We needed queueing
@@ -50,7 +51,10 @@ This is necessary as your Task queue is based on app engine settings.
 If you want to, you can make some adjustments to how your queue behaves:
 
 ```
-gcloud tasks queues update my-queue --max-concurrent-dispatches=5 --max-attempts=3 --min-backoff=5s
+gcloud tasks queues update my-queue \
+--max-concurrent-dispatches=5 \
+--max-attempts=3 \
+--min-backoff=5s
 ```
 
 Check how your queue looks:
