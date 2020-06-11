@@ -70,6 +70,7 @@ defaults:
       path: ""
       type: posts
     values:
+      category: Random
       layout: post # Default layout
 
 # 7. Site settings

@@ -2,6 +2,7 @@
 layout: post
 title: Create new Rails 6 project with Docker
 date: 2020-06-11 17:41 +0100
+category: Tech
 ---
 
 If you want to set-up a new Rails project, but you don't want to go through the hassle of setting op Ruby, node, Yarn, Rails itself, etc. you could do it with Docker. That way you can really fast start a new project, without possible version conflicts, installs, etc. on your computer...
