@@ -83,3 +83,15 @@ logo: "/assets/embrosa_shoot_pasfoto.png" # Site logo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rogiervandenberg.nl" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title:output_ext
+
+
+# Stuff for Jekyll Compose, to set defaults
+jekyll_compose:
+  default_front_matter:
+    posts:
+      category: Random
+      # image:
+      # tags:
+      # published: false
+      # sitemap: false
+  auto_open: true
