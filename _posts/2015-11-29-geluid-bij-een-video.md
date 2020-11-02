@@ -24,19 +24,19 @@ Als iemand een lezing geeft en op een vaste plaats staat, dan wordt vaak een kat
 
 Wanneer een andere spreker komt, kan hij/zij direct door. De kwaliteit van het geluid is constant en van hoog niveau.
 
-![](http://bento-cdn.bentopresentatie.netdna-cdn.com/wp-content/uploads/2015/09/microfoon-katheder.jpg)
+![](https://bento-cdn.bentopresentatie.netdna-cdn.com/wp-content/uploads/2015/09/microfoon-katheder.jpg)
 
 Maar, je kunt niet weg en je moet strak achter de katheder blijven staan.
 
 ### Reporter microfoon
 Bekend van het nieuws. Een reporter is in beeld en houdt zijn eigen microfoon vast. Maar ook handig als je iemand op straat wil aanspreken. Je houdt snel de microfoon bij zijn mond.
 
-![](http://tpo.nl/wp-content/uploads/2013/12/Pownews.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/31/Powned_microfoon.jpg)
 
 ### Lavalier microfoon / dasspeldmicrofoon
 Hier ben ik, voor het maken van video’s, zelf een groot fan van. Je speldt jezelf of je persoon in beeld een microfoontje op, probeert deze zo goed mogelijk te verstoppen en je geluid is dichtbij opgenomen!
 
-![Dasspeldmicrofoon](http://www.mediacollege.com/audio/images/mic-lav1.jpg)
+![Dasspeldmicrofoon](https://www.mediacollege.com/audio/images/mic-lav1.jpg)
 
 Het voordeel is dat je geen microfoon hoeft te zien, dichtbij de bron opneemt en dat de persoon in beeld geen rekening hoeft te houden met de microfoon (houd ik ‘m goed vast, etc.).
 
@@ -62,14 +62,14 @@ Dit kan wat oefening of geavanceerde sofware vereisen. Daarom is het slim hier e
 
 En, ken je het ‘klap-bord’ dat mensen bij ‘de film’ gebruiken?
 
-![](http://www.2015auditions.com/wp-content/uploads/2011/01/movie-board1.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/7/7f/Clapperboard.jpg)
 
 Daarmee kun je een klap geven, zodat je in je bewerking precies kunt zien wáár het geluid op gesynchroniseerd moet worden: Daar waar je ‘klap’ hoort en de ‘klap’ ziet :)
 
 ## Wil je concreet aan de slag?
 Bij veel video’s heb ik gebruik gemaakt van een [Samson LM10 microfoon](http://www.bax-shop.nl/dasspeld/samson-lm10-mj-lavalier-microfoon-mini-jack). Deze kun je goed verstoppen en geeft goed geluid voor zijn prijs. Daarnaast neem ik het geluid graag op met een  [Zoom H1](http://www.bax-shop.nl/field-recorder-1/zoom-h1-v2-ultra-compacte-handheld-audiorecorder) of [Zoom H4n](http://www.bax-shop.nl/field-recorder/zoom-h4n-sp-handheld-audiorecorder).
 
-![](http://static.bax-shop.nl/image/product/214142/462899/fb995d19/450x450/1444649494h1_sides.png)
+![](https://static.bax-shop.nl/image/product/214142/462899/fb995d19/450x450/1444649494h1_sides.png)
 *De Zoom H1 vind je al [voor €79,- incl. BTW](http://www.bax-shop.nl/field-recorder-1/zoom-h1-v2-ultra-compacte-handheld-audiorecorder)*
 
 Wil je zelf een verbeterslag maken in het geluid van jouw video’s? Ga dan voor die eerste 2 producten. Daarmee heb ik bijvoorbeeld ook deze video gemaakt: 

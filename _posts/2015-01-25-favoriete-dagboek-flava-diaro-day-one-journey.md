@@ -26,7 +26,7 @@ Het opslaan of wijzigen van een item duurt echter heel erg lang, soms wel 20 sec
 ### Diaro
 Bijna was ik voor ￼[Diaro](http://diaroapp.com/)￼ gegaan. Sterker, ik heb hiervan ook de premium versie gekocht en was hier al in begonnen met meerdere posts. Het biedt alles wat ik nodig heb en zelfs een beetje meer: Het werkt op en synchroniseert over meerdere platforms (webapplicatie, Android en iOS). Daarbij wordt gebruik gemaakt van Dropbox als opslag. Verder ondersteunt het tags, meerdere notitieblokken, locaties en kun je media toevoegen.
 
-![Diaro synct tussen veel verschillende apparaten](http://www.diaroapp.com/img/sync.png)
+![Diaro synct tussen veel verschillende apparaten](https://diaroapp.com/assets/landing/images/sync.png)
 
 Ik was blij met de mogelijkheden qua instellingen (kleurgebruik, lettergroottes), maar minder blij met de werking. Diaro ziet er namelijk nogal systeem-achtig uit. Niet echt een fijne omgeving waar je gemakkelijk snel iets neerzet.
 
@@ -37,14 +37,14 @@ Ik merkte dat ik na een paar dagen gebruik van Diaro niet tevreden was en verder
 ### Day One
 ￼[Day One￼](http://dayoneapp.com/) is een erg populaire app voor Mac en iOS. Jouw dagboek staat op iCloud of Dropbox (wat jij wil) en is beschikbaar vanuit de app en van uit je iPhone. Wat mij heel erg aansprak is de mogelijkheid vanuit je menu-balk op je Mac snel een post te doen. Ook ziet Day One er schitterend uit.
 
-![Day One](http://dayoneapp.com/images/home/home-products.png)
+![Day One](https://dayoneapp.com/static/41c5314547667c8efb48ced92d89fc70/edb46/intro-devices%402x.jpg)
 
 Gemiste kans is echter dat het alleen voor Mac en iOS beschikbaar is. Ik heb een Android telefoon, dat gaat dus niet werken. Het idee dat ik niet zonder een computer bij mijn aantekeningen kan gaat ‘m niet worden.
 
 ### Journey
 Gelukkig vond ik toen ￼[Journey](http://2appstudio.com/journey/)￼. Een relatief jonge app, maar fantastisch tot dusver! Als je de website bekijkt, dan zie je waarschijnlijk grote overeenkomsten met Day One. Veel functionaliteit is “geleend” door de maker.
 
-![Journey ziet er ook mooi uit](http://2appstudio.com/journey/image/big_1.jpg)
+![Journey ziet er ook mooi uit](https://journey.cloud/assets/home/devices-de68988b9b64a4f92101a8cc8b111971aa258d878408cec0756ddc0f02ffe0c8.png)
 
 Journey heeft een voor mij groot voordeel ten opzichte van Day One. Je kunt het gebruiken als Chrome-app, in je browser dus (en het werkt daarom op Mac, Linux en Windows) en er is een schitterende ￼Android￼ app voor!
 
