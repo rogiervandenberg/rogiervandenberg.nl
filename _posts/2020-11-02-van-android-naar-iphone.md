@@ -34,3 +34,4 @@ En toen zag ik daar ineens de iPhone 12 mini. In het rood.. Super specs, goede p
 Dus, roffel roffel, voor het eerst kies ik nu een iPhone als telefoon. Omdat ik denk dat een iPhone inmiddels alles kan en heeft wat ik zoek. Omdat ik vind dat ik alles een keer moet proberen. Omdat ik ook een Macbook heb en alle Apple fanboys altijd al hebben gezegd dat "het ecosysteem" zo fantastisch werkt. Omdat ik ook apps maak voor iPhones en wil ervaren hoe het is.
 
 Nou, dat gaan we dan dus meemaken. Als die-hard Android fan ga ik de overstap maken naar iOS. Ik ga voor de iPhone 12 mini (tenminste een normale maat, ipv die tablets 😛). Update over hoe het bevalt volgt later, als ik hem heb en ik er iets zinnigs over kan zeggen...
+![iPhone 12 mini in (PRODUCT)RED](https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12_color-red_10132020_big_carousel.jpg.large.jpg)
