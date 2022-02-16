@@ -1,5 +1,7 @@
 # Rogiers blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/903ec803-18df-40c9-b98d-6b830a74ad9f/deploy-status)](https://app.netlify.com/sites/rogier/deploys)
+
 ## Install
 
 `bundle install`
