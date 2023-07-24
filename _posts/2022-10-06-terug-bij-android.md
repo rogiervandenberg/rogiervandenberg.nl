@@ -39,7 +39,7 @@ Zijn er dingen die ik ga missen aan de iPhone? Yes: Face unlock en Airdrop _(wat
 
 Nu verwacht ik dat Apple over tijd dingen van hierboven uiteraard zal verbeteren of zelfs zal overnemen (dat hebben ze altijd al gedaan). En als dat gebeurt, dan zal ik wellicht weer eens overwegen om iOS nogmaals te proberen. Maar voor nu ben ik blij met mijn Pixel 7.
 
-## Update
+## Update juli 2023
 
 iOS 17 is nu in beta en guess what:
 
